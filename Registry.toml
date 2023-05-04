@@ -4,4 +4,3 @@ repo = "https://github.com/ronisbr/Registry.git"
 description = "My local Julia registry"
 
 [packages]
-3e027328-ef5c-4916-91ce-34c73cb689a2 = { name = "SatelliteToolboxTime", path = "S/SatelliteToolboxTime" }
